@@ -2,7 +2,8 @@
 
 # Female Tech Leaders Hackathon
 ## Introduction to Big Data • COVID-19 and its Global Effects
-Team Name: CrownPride 
+Team Name: CrownPride
+
 Team Members: Dilip Rajkumar, Gopinath Mylapura Anjaneyareddy, Mahalakshmi Sabanayagam, Victoria Perez Mola
 
 
