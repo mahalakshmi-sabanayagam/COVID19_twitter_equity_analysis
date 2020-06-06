@@ -13,3 +13,4 @@ geopy
 pycountry
 geopandas
 yfinance
+geopandas
